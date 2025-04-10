@@ -1,2 +1,17 @@
 node_modules
 .env
+
+# Ignore environment variables
+backend/.env
+
+# Logs
+backend/logs
+backend/*.log
+
+# System and editor files
+.DS_Store
+.vscode
+.idea
+
+# Test coverage
+backend/coverage/

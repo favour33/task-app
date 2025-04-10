@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app h1 {
+  margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+  .app {
+    padding: 15px;
+  }
+}
