@@ -17,6 +17,25 @@ A simple task management application built with React. This app allows users to 
 - **CSS**: Regular CSS
 - **Testing**: Jest and React Testing Library
 
+# Running Application
+
+```
+cd backend
+
+npm install
+
+npm start
+```
+
+```
+cd frontend
+
+npm install
+
+npm start
+
+```
+
 # Task API Documentation
 
 Base URL: `http://localhost:5000/api/tasks`
